@@ -112,8 +112,8 @@ No-box design: whitespace alignment + ANSI colors only, never breaks on resize. 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/free-ugc-limited-sniper.git
-cd free-ugc-limited-sniper
+git clone https://github.com/your-username/free-ugc-sniper.git
+cd free-ugc-sniper
 
 # 2. Install dependencies (or let main.py auto-install on first run)
 py -3.14 -m pip install -r requirements.txt
