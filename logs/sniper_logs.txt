@@ -1,0 +1,17 @@
+[2026-10-11 17:12:50] [INFO] src.sniper – [Proxy] Đọc được 0 proxy từ proxies.txt
+[2026-10-11 17:12:50] [INFO] src.sniper – ✅ Sniper initialized
+[2026-10-11 17:12:50] [INFO] src.sniper – [Startup] cwd=C:\Users\User\Downloads\free-ugc-limited-sniper
+[2026-10-11 17:12:50] [INFO] src.sniper – [Startup] sniper_file=C:\Users\User\Downloads\free-ugc-limited-sniper\src\sniper.py
+[2026-10-11 17:12:50] [INFO] src.sniper – [Startup] guild=415246288779608064 channels=['1094291863332192376'] watcher_tokens=1 proxy=OFF
+[2026-10-11 17:12:50] [INFO] src.sniper – [Gateway] Khoi dong 1 watcher token(s)
+[2026-10-11 17:12:50] [INFO] src.sniper – [Gateway] watcher#4425 | JSON: orjson | Channels: ['1094291863332192376']
+[2026-10-11 17:12:50] [INFO] src.sniper – [Gateway] Gateway task created #1
+[2026-10-11 17:12:51] [INFO] src.sniper – ✓ Created critical session
+[2026-10-11 17:12:51] [INFO] src.sniper – ✓ Created shared session
+[2026-10-11 17:12:51] [INFO] src.sniper – [Gateway] Sent IDENTIFY (watcher#4425)
+[2026-10-11 17:12:54] [INFO] src.sniper – [Gateway] READY session=c1746d09...
+[2026-10-11 17:12:54] [INFO] src.sniper – [Gateway] OP14 Lazy Guild Loading: 415246288779608064
+[2026-10-11 17:12:54] [INFO] src.sniper – [Gateway] OP14 Lazy Guild Loading: 415246288779608064
+[2026-10-11 17:12:54] [INFO] src.sniper – [Gateway] channel_access=ok channel=1094291863332192376
+[2026-10-11 17:12:55] [INFO] src.sniper – ✓ Prewarmed Roblox connections
+[2026-10-11 17:12:55] [INFO] src.sniper – Scanner V1/V2 ON - cho item trong list...

@@ -1,0 +1,33 @@
+{
+    "items": [],
+    "global_max_price": 1,
+    "gateway": {
+        "target_guild": "415246288779608064",
+        "target_channels": [
+            "1094291863332192376"
+        ]
+    },
+    "webhook": {
+        "enabled": true,
+        "url": "",
+        "anonymous": true
+    },
+    "tokens": {
+        "watchers": [
+            ""
+        ]
+    },
+    "cookies": {
+        "search_cookie": "",
+        "buy_cookie": ""
+    },
+    "proxy": false,
+    "tokenbot_discord": {
+        "token": "",
+        "enabled": true,
+        "guild_id": "",
+        "authorized_users": [
+            1216388407337680936
+        ]
+    }
+}
